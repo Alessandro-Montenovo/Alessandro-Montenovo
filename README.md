@@ -1,7 +1,6 @@
 ## Hi there 👋
-# Hello World 👋
-[![Blog Badge](https://img.shields.io/badge/blog-25k%20pageview-brightgreen)](#) 
-[![Mail Badge](https://img.shields.io/badge/-your_email%40example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your_email@example.com)](mailto:your_email@example.com)
+# Hello World 👋 
+[![Mail Badge](https://img.shields.io/badge/-your_email%40example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alemo.1996.am@gmail.com)](mailto:alemo.1996.am@gmail.com)
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
