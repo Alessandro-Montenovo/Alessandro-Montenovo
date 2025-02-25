@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Hello World 👋 
-[![Mail Badge](https://img.shields.io/badge/-your_email%40example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alemo.1996.am@gmail.com)](mailto:alemo.1996.am@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-alemo.1996.am%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alemo.1996.am@gmail.com)](mailto:alemo.1996.am@gmail.com)
 
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
